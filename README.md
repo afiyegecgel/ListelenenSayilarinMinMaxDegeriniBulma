@@ -1,0 +1,1 @@
+# ListelenenSay-lar-nMinMaxDegeriniBulma
