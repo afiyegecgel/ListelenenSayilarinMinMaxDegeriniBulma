@@ -1,1 +1,1 @@
-# ListelenenSay-lar-nMinMaxDegeriniBulma
+# ListelenenSayilarinMinMaxDegeriniBulma
